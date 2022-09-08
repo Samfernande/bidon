@@ -1,0 +1,35 @@
+Product Backlog : - Tableau avec TOUTES les fonctionnalités du produit, toutes les choses à faire, en progressions et fait ainsi que leur userstory (définition).
+Sprint Planning : - Phase de catégorisation des différentes fonctionnalités du produit, comme la difficulté (userpoints, nombre d'or, planning poker) et le temps que ça peut prendre.
+Sprint Backlog : - Autre tableau inspiré du product backlog, ou l'on prend les userstories prioritaires pour les effectuer
+Daily Scrum : - Tous les jours, l'équipe se réunit afin de parler de ce qui a été fait et de ce qui va être fait durant le sprint afin d'atteindre l'objectif donné.
+Sprint review : - Permet d'évaluer les résultats otbenus par l'équipe scrum ainsi que la progression du produit final après un sprint. Il permet aussi d'ajuster le produit backlog
+Sprint retrospective : - Permet d'évaluer la bonne cohésion de l'équipe, les interactions avec ces-derniers et comprendre comment l'équipe marche.
+Planning Poker : - Durant le sprint planning permet de discuter de la difficulté d'une userstory, les userpoints. Chacune des personnes concernées va expliquer son point
+de vue et définir ses userpoints.
+
+Scrum Master : Personne qui gère le projet qui va gérer l'équipe et le bon fonctionnement de cette-dernière.
+
+Product Owner : peut être considéré comme un chef de projet, il sert d'interface entre l'équipe technique et marketing, ainsi qu'avec les clients.
+
+Règle des 3C (Rédaction d'une userstory) : 
+
+- Carte de description du besoin
+- Conversation qui reflète une négociation en vue de la définition et de la compréhension du besoin
+- Confirmation qui est une définition des critères d'acceptation pour valider la réalisation du produit
+
+Exemple : En tant que, J'ai besoin de, afin de
+
+Caractéristiques d'une user story :
+
+- Indépendante 
+- Négociable
+- Valorisable
+- Estimable
+- Suffisamment petit
+- Testable
+
+
+
+
+
+
